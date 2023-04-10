@@ -1,4 +1,4 @@
-# Double_Descent_Phenomenan
+# Double_Descent_Phenomenon
 The double descent phenomenon refers to a peculiar behavior observed in certain models where the
 test error initially decreases as the model complexity increases, then reaches a minimum, and finally
 increases again as the model becomes more complex. This phenomenon challenges the traditional
